@@ -1,6 +1,5 @@
-Syntax highlighted code block
-
-https://www.youtube.com/watch?v=erEgovG9WBs
+# RobotStudion ohjevideoita
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
 
 # Header 1
 ## Header 2
